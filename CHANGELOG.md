@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.2.1](https://github.com/Antiz96/oniri/releases/tag/v1.2.1) - 2026-05-10
+
+### Fixes
+
+- Track and act on the previous workspace after the active window is moved to another one ([#43](https://github.com/Antiz96/oniri/pull/43)) - ([0eb0755](https://github.com/Antiz96/oniri/commit/0eb075576db612d11a8fe14dbea2e967b68412de)) by @Antiz96
+
+### Documentation
+
+- *(build)* Update build and release documentation ([#41](https://github.com/Antiz96/oniri/pull/41)) - ([bbd4475](https://github.com/Antiz96/oniri/commit/bbd44754bc3b78c814a2197b063943fca2c53226)) by @Antiz96
+
 ## [v1.2.0](https://github.com/Antiz96/oniri/releases/tag/v1.2.0) - 2026-04-27
 
 ### Features
